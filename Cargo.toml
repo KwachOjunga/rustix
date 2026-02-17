@@ -110,7 +110,7 @@ targets = [
 [features]
 
 # By default, use `std`.
-default = ["std"]
+default = ["std", "io_uring", "net", "system", "runtime", "use-libc", "mm", "process" , "pipe", "shm"]
 
 # This enables use of std. Disabling this enables `#![no_std]`, and requires
 # Rust 1.77 or newer.
