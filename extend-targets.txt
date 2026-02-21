@@ -1,0 +1,16 @@
+Objectives
+___
+
+This file highlights some of the primary objectives of the branch `extend-targets`.
+If you are reading this;
+    the branch is incomplete.
+
+Two things stand creating a target for a riscv architecture and perhaps a risc aarchitecture.
+Targets to be supported include:
+    - riscv64gc-unknown-linux-gnu
+    - xous-core
+
+This is to reinforce the understanding of os interfacing with low level software and in anticipation of what's coming.
+
+
+Duration to completion: (3 weeks)
